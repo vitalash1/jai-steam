@@ -1,6 +1,6 @@
 ### 2025
 
-[the travelers](https://store.steampowered.com/app/3316690/the_travelers/), atmospheric MMO roguelite, by Toroga
+[the travelers](https://store.steampowered.com/app/3316690/the_travelers/), atmospheric MMO roguelite, by Toroga  
 [Chaos Machina](https://store.steampowered.com/app/3406570/Chaos_Machina/), bullet-hell roguelite, by Zavki
 
 ### 2024

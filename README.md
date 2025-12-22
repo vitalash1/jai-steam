@@ -1,5 +1,6 @@
 ### 2025
 
+[the travelers](https://store.steampowered.com/app/3316690/the_travelers/), atmospheric MMO roguelite, by Toroga
 [Chaos Machina](https://store.steampowered.com/app/3406570/Chaos_Machina/), bullet-hell roguelite, by Zavki
 
 ### 2024
@@ -9,9 +10,9 @@
 
 ### Upcoming
 [Fat Goblins](https://store.steampowered.com/app/2450350/Fat_Goblins/), arena PvP, by Kuju  
-[The Travelers](https://store.steampowered.com/app/3316690/the_travelers/), 2d MMO adventure, by Toroga
 
 ### 🏆Achievement, Released a game on steam in Jai!  
+✅ Toroga
 ✅ Zavki  
 ✅ Ash
 

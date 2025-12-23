@@ -1,7 +1,7 @@
 ### 2025
 
 [the travelers](https://store.steampowered.com/app/3316690/the_travelers/), atmospheric text-based adventure mmo, by torogadude  
-[Chaos Machina](https://store.steampowered.com/app/3406570/Chaos_Machina/), bullet-hell roguelite, by Zavki
+[Chaos Machina](https://store.steampowered.com/app/3406570/Chaos_Machina/), bullet-hell roguelite, by Zaki
 
 ### 2024
 
@@ -13,7 +13,7 @@
 
 ### 🏆Achievement, Released a game on steam in Jai!  
 ✅ torogadude  
-✅ Zavki  
+✅ Zaki  
 ✅ Ash
 
 

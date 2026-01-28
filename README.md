@@ -10,6 +10,7 @@
 
 ### Upcoming
 [Fat Goblins](https://store.steampowered.com/app/2450350/Fat_Goblins/), arena PvP, by Kuju  
+[Gravity's Edge](https://store.steampowered.com/app/4353210/Gravitys_Edge/), space based with action adventure with story and survival mode, by kvassall
 
 ### 🏆Achievement, Released a game on steam in Jai!  
 ✅ torogadude  

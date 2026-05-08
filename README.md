@@ -1,3 +1,6 @@
+### 2026  
+[Gravity's Edge](https://store.steampowered.com/app/4353210/Gravitys_Edge/), space based action adventure with story and survival mode, by kvassall
+
 ### 2025
 
 [the travelers](https://store.steampowered.com/app/3316690/the_travelers/), atmospheric text-based adventure mmo, by torogadude  
@@ -9,8 +12,7 @@
 [You Want to Watch the World Burn](https://store.steampowered.com/app/3029680/You_Want_to_Watch_the_World_Burn/), arson action puzzle, by Ash
 
 ### Upcoming
-[Fat Goblins](https://store.steampowered.com/app/2450350/Fat_Goblins/), arena PvP, by Kuju  
-[Gravity's Edge](https://store.steampowered.com/app/4353210/Gravitys_Edge/), space based with action adventure with story and survival mode, by kvassall
+[Fat Goblins](https://store.steampowered.com/app/2450350/Fat_Goblins/), arena PvP, by Kuju
 
 ### 🏆Achievement, Released a game on steam in Jai!  
 ✅ torogadude  

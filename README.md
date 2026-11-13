@@ -1,5 +1,5 @@
 ### 2026  
-[Fat Goblins](https://store.steampowered.com/app/2450350/Fat_Goblins/), fat arena PvP, by Kuju
+[Fat Goblins](https://store.steampowered.com/app/2450350/Fat_Goblins/), fat arena PvP, by Kuju  
 [Order of the Sinking Star](https://store.steampowered.com/app/499170/Order_of_the_Sinking_Star/), high quality sokoban game as art, by Jonathan Blow  
 [Gravity's Edge](https://store.steampowered.com/app/4353210/Gravitys_Edge/), space based action adventure with story and survival mode, by kvassall
 

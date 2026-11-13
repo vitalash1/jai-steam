@@ -1,4 +1,5 @@
 ### 2026  
+[Fat Goblins](https://store.steampowered.com/app/2450350/Fat_Goblins/), fat arena PvP, by Kuju
 [Order of the Sinking Star](https://store.steampowered.com/app/499170/Order_of_the_Sinking_Star/), high quality sokoban game as art, by Jonathan Blow  
 [Gravity's Edge](https://store.steampowered.com/app/4353210/Gravitys_Edge/), space based action adventure with story and survival mode, by kvassall
 
@@ -13,9 +14,10 @@
 [You Want to Watch the World Burn](https://store.steampowered.com/app/3029680/You_Want_to_Watch_the_World_Burn/), arson action puzzle, by Ash
 
 ### Upcoming
-[Fat Goblins](https://store.steampowered.com/app/2450350/Fat_Goblins/), arena PvP, by Kuju
+None !
 
 ### 🏆Achievement, Released a game on steam in Jai!  
+✅ Kuju
 ✅ Jonathan Blow  
 ✅ kvassall  
 ✅ torogadude  

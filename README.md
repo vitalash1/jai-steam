@@ -17,7 +17,7 @@
 None !
 
 ### 🏆Achievement, Released a game on steam in Jai!  
-✅ Kuju
+✅ Kuju  
 ✅ Jonathan Blow  
 ✅ kvassall  
 ✅ torogadude  
